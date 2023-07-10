@@ -15,15 +15,18 @@ Repositório  com exercícios do módulo de Programação Dinâmica da disciplin
 
 Os enunciados dos 4 exercícios podem ser encontrados na listagem abaixo:
 
-- 
-- 
+- [The Lucky Draw 
+](https://www.codechef.com/problems/D2) : Resolvido através do algoritimo da maior subsequência crescente
+- [Repeated DNA Sequences
+](https://leetcode.com/problems/repeated-dna-sequences/): Resolvido através do algoritimo de alinhamento de sequência
 - 
 - 
 <!-- - []()
 []() -->
 
 ## Screenshots
-
+<img src="./assets/theLuckyDraw.png">
+<p align="center">Figura 1 - The Lucky Draw .</p>
 
 
 ## Instalação 
