@@ -20,7 +20,7 @@ Os enunciados dos 4 exercícios podem ser encontrados na listagem abaixo:
 - [Repeated DNA Sequences
 ](https://leetcode.com/problems/repeated-dna-sequences/): Resolvido através do algoritimo de alinhamento de sequência
 - [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) : Resolvido através do algoritmo de Bellman-Ford
-- 
+- [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) : Resolvido através do algoritmo de Bellman-Ford
 
 ## Screenshots
 <img src="./assets/theLuckyDraw.png">
@@ -28,6 +28,9 @@ Os enunciados dos 4 exercícios podem ser encontrados na listagem abaixo:
 
 <img src="./assets/CheapestFlightsWithinKStops.png">
 <p align="center">Figura 2 - Cheapest Flights Within K Stops.</p>
+
+<img src="./assets/SmallestNumberOfNeighbors.png">
+<p align="center">Figura 3 - Find the City With the Smallest Number of Neighbors at a Threshold Distance</p>
 ## Instalação 
 
 **Linguagem**: e C++<br>
