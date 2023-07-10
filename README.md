@@ -26,7 +26,7 @@ Os enunciados dos 4 exercícios podem ser encontrados na listagem abaixo:
 <img src="./assets/theLuckyDraw.png">
 <p align="center">Figura 1 - The Lucky Draw.</p>
 
-<img src="./assets/CheapestFlights.png">
+<img src="./assets/CheapestFlightsWithinKStops.png">
 <p align="center">Figura 2 - Cheapest Flights Within K Stops.</p>
 ## Instalação 
 
