@@ -19,16 +19,15 @@ Os enunciados dos 4 exercícios podem ser encontrados na listagem abaixo:
 ](https://www.codechef.com/problems/D2) : Resolvido através do algoritimo da maior subsequência crescente
 - [Repeated DNA Sequences
 ](https://leetcode.com/problems/repeated-dna-sequences/): Resolvido através do algoritimo de alinhamento de sequência
+- [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
 - 
-- 
-<!-- - []()
-[]() -->
 
 ## Screenshots
 <img src="./assets/theLuckyDraw.png">
-<p align="center">Figura 1 - The Lucky Draw .</p>
+<p align="center">Figura 1 - The Lucky Draw.</p>
 
-
+<img src="./assets/CheapestFlights.png">
+<p align="center">Figura 2 - Cheapest Flights Within K Stops.</p>
 ## Instalação 
 
 **Linguagem**: e C++<br>
