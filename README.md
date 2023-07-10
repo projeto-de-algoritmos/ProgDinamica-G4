@@ -19,7 +19,7 @@ Os enunciados dos 4 exercícios podem ser encontrados na listagem abaixo:
 ](https://www.codechef.com/problems/D2) : Resolvido através do algoritimo da maior subsequência crescente
 - [Repeated DNA Sequences
 ](https://leetcode.com/problems/repeated-dna-sequences/): Resolvido através do algoritimo de alinhamento de sequência
-- [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+- [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) : Resolvido através do algoritmo de Bellman-Ford
 - 
 
 ## Screenshots
